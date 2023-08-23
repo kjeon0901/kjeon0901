@@ -14,9 +14,6 @@
 
 <br>
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contributions" width="600" height="300">
-</p>
 
 
 
