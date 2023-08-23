@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Claire%20J&fontSize=80&fontAlignY=40" alt="Header Image">
 </p>
 
+<h3 align="center">📊 GitHub Stats</h3>
+
 <div align="center" style="display: flex;">
   <div style="flex: 50%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjeon0901&layout=compact" alt="Top Languages">
@@ -14,7 +16,11 @@
 
 <br>
 
+<h3 align="center">🌈 GitHub Contributions</h3>
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contributions" width="600" height="300">
+</p>
 
 
 
@@ -31,7 +37,3 @@
 - ⚡ Fun fact: ...
 -->
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=&fontSize=90" alt="Footer Image">
-</p>
