@@ -12,7 +12,7 @@
   
 </p>
 
-<br><br>
+<br>
 
 <h3 align="center">😎 GitHub Contributions</h3>
 
