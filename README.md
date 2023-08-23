@@ -4,6 +4,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjeon0901&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=kjeon0901&show_icons=true">
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
 ### Hi there 👋
 
