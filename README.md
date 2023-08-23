@@ -3,26 +3,7 @@
 </p>
 
 
-<h3 align="center">📊 Github Stats</h3>
-<!--
-
-<div align="center" style="display: flex;">
-  <div style="flex: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjeon0901&layout=compact" alt="Top Languages">
-  </div>
-
-  <div style="flex: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kjeon0901&show_icons=true" alt="GitHub Stats">
-  </div>
-</div>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kjeon0901&show_icons=true" alt="GitHub Stats">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjeon0901&layout=compact" alt="Top Languages">  
-</p>
--->
-
-
+<h3 align="center">😋 Github Stats</h3>
 
 <p>
   <img align="left" width="7.15%" src="https://github.com/kjeon0901/kjeon0901/assets/51190120/6df96b3b-d611-4a0c-a4cd-428eb77b4040">  
@@ -33,7 +14,7 @@
 
 <br><br>
 
-<h3 align="center">🌈 GitHub Contributions</h3>
+<h3 align="center">😎 GitHub Contributions</h3>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contributions" width="600" height="300">
