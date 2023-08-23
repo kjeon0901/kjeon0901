@@ -1,9 +1,11 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ClaireJ&fontSize=90" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjeon0901&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=kjeon0901&show_icons=true">
 
 <!--
-**kjeon0901/kjeon0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
