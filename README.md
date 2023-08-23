@@ -26,8 +26,8 @@
 
 <p>
   <img align="left" width="7%" src="https://github.com/kjeon0901/kjeon0901/assets/51190120/6df96b3b-d611-4a0c-a4cd-428eb77b4040">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kjeon0901&show_icons=true" alt="GitHub Stats">  
-  <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjeon0901&layout=compact" alt="Top Languages">  
+  <img align="center" width="33%" src="https://github-readme-stats.vercel.app/api?username=kjeon0901&show_icons=true" alt="GitHub Stats">  
+  <img align="center" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjeon0901&layout=compact" alt="Top Languages">  
   
 </p>
 
