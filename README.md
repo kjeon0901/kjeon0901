@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ClaireJ&fontSize=90" alt="Header Image">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Claire%20J&fontSize=80&fontAlignY=40" alt="Header Image">
 </p>
-
 
 
 <div align="center" style="display: flex;">
   <div style="flex: 50%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjeon0901&layout=compact" alt="Top Languages">
   </div>
+
   <div style="flex: 50%;">
     <img src="https://github-readme-stats.vercel.app/api?username=kjeon0901&show_icons=true" alt="GitHub Stats">
   </div>
@@ -34,3 +34,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=&fontSize=90" alt="Footer Image">
+</p>
