@@ -22,6 +22,15 @@
 
 <br>
 
+<h3 align="center">🤗 Today I Learned</h3>
+
+<div align=center>
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kjeon0901&tag=TIL)](https://github.com/eungyeole/velog-readme-stats)
+</div>
+
+<br>
+
 <!--
 ### Hi there 👋
 
