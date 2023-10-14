@@ -26,7 +26,7 @@
 
 <div align=center>
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kjeon0901&tag=TIL)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kjeon0901&tag=TIL)](https://velog-readme-stats.vercel.app/api/redirect?name=kjeon0901&tag=TIL)
 </div>
 
 <br>
