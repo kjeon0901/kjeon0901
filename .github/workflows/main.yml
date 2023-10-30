@@ -22,10 +22,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       
-      # - name: Commit & Push
-      #   run: |
-      #     git config user.name kjeon0901
-      #     git config user.email kjeon0901@naver.com
-      #     git add -A .
-      #     git commit -m "generated"
-      #     git push https://kjeon0901:${{ secrets.TOKEN }}@github.com/kjeon0901/kjeon0901.git main
+      - name: Commit & Push
+        run: |
+          git config user.name kkabi1123
+          git config user.email kkabisaveworld@gmail.com
+          git add -A .
+          git commit -m "generated"
+          git push https://kjeon0901:${{ secrets.TOKEN }}@github.com/kjeon0901/kjeon0901.git main
