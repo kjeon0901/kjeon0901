@@ -7,8 +7,8 @@
 
 <p>
   <img align="left" width="7.15%" src="https://github.com/kjeon0901/kjeon0901/assets/51190120/6df96b3b-d611-4a0c-a4cd-428eb77b4040">  
-  <img align="center" width="46%" src="https://github-readme-stats-kjeon0901.vercel.app/api?username=kjeon0901&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&role=owner,collaborator,organization_member&rank_icon=percentile&exclude_repo=github-readme-stats&card_width=460&line_height=24" alt="GitHub Stats"> 
-  <img align="center" width="35%" src="https://github-readme-stats-kjeon0901.vercel.app/api/top-langs?username=kjeon0901&count_private=true&layout=compact&hide_border=true&hide_title=true&role=owner,collaborator,organization_member" alt="Top Languages">
+  <img align="center" width="46%" src="https://github-readme-stats-kjeon0901.vercel.app/api?username=kjeon0901&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&theme=transparent&role=owner,collaborator,organization_member&rank_icon=percentile&exclude_repo=github-readme-stats&card_width=460&line_height=24" alt="GitHub Stats"> 
+  <img align="center" width="35%" src="https://github-readme-stats-kjeon0901.vercel.app/api/top-langs?username=kjeon0901&count_private=true&layout=compact&hide_border=true&hide_title=true&theme=transparent&role=owner,collaborator,organization_member" alt="Top Languages">
 </p>
 
 <br>
